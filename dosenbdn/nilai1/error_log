@@ -1,0 +1,18 @@
+[09-Sep-2025 09:46:21 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/akpbacid/public_html/siakad/dosenbdn/nilai/database_connection.php:5
+Stack trace:
+#0 /home/akpbacid/public_html/siakad/dosenbdn/nilai/database_connection.php(5): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/akpbacid/public_html/siakad/dosenbdn/nilai/fetch.php(3): include('/home/akpbacid/...')
+#2 {main}
+  thrown in /home/akpbacid/public_html/siakad/dosenbdn/nilai/database_connection.php on line 5
+[09-Sep-2025 09:46:31 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/akpbacid/public_html/siakad/dosenbdn/nilai/database_connection.php:5
+Stack trace:
+#0 /home/akpbacid/public_html/siakad/dosenbdn/nilai/database_connection.php(5): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/akpbacid/public_html/siakad/dosenbdn/nilai/fetch.php(3): include('/home/akpbacid/...')
+#2 {main}
+  thrown in /home/akpbacid/public_html/siakad/dosenbdn/nilai/database_connection.php on line 5
+[09-Sep-2025 09:47:06 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/akpbacid/public_html/siakad/dosenbdn/nilai/database_connection.php:5
+Stack trace:
+#0 /home/akpbacid/public_html/siakad/dosenbdn/nilai/database_connection.php(5): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/akpbacid/public_html/siakad/dosenbdn/nilai/fetch.php(3): include('/home/akpbacid/...')
+#2 {main}
+  thrown in /home/akpbacid/public_html/siakad/dosenbdn/nilai/database_connection.php on line 5
